@@ -1,0 +1,5 @@
+C:\Users\AEPBS\Documents\Visual Basic\MeuProjetoVB\obj\Debug\net9.0\MeuProjetoVB.vbproj.AssemblyReference.cache
+C:\Users\AEPBS\Documents\Visual Basic\MeuProjetoVB\obj\Debug\net9.0\MeuProjetoVB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEPBS\Documents\Visual Basic\MeuProjetoVB\obj\Debug\net9.0\MeuProjetoVB.AssemblyInfoInputs.cache
+C:\Users\AEPBS\Documents\Visual Basic\MeuProjetoVB\obj\Debug\net9.0\MeuProjetoVB.AssemblyInfo.vb
+C:\Users\AEPBS\Documents\Visual Basic\MeuProjetoVB\obj\Debug\net9.0\MeuProjetoVB.vbproj.CoreCompileInputs.cache
