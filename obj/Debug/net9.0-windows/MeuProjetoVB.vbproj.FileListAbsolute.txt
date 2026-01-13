@@ -54,3 +54,4 @@ C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\refint\Meu
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.pdb
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.genruntimeconfig.cache
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\ref\MeuProjetoVB.dll
+C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.sourcelink.json

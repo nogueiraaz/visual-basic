@@ -147,4 +147,35 @@ Public Class EmprestimoDAL
         End Try
         Return emprestimos
     End Function
+
+    ' Listar todos os empréstimos (incluindo devolvidos)
+    Public Shared Function ListarTodos() As List(Of Emprestimo)
+        Dim emprestimos As New List(Of Emprestimo)
+        Try
+            Using conn = DatabaseConnection.GetConnection()
+                If conn Is Nothing Then Return emprestimos
+                
+                Dim query As String = "SELECT * FROM emprestimos"
+                Using cmd As New MySqlCommand(query, conn)
+                    Using reader = cmd.ExecuteReader()
+                        While reader.Read()
+                            Dim emp As New Emprestimo()
+                            emp.Id = reader.GetInt32("id")
+                            emp.IdLivro = reader.GetInt32("id_livro")
+                            emp.IdUtilizador = reader.GetInt32("id_utilizador")
+                            emp.DataEmprestimo = reader.GetDateTime("data_emprestimo")
+                            If Not IsDBNull(reader("data_devolucao")) Then
+                                emp.DataDevolucao = reader.GetDateTime("data_devolucao")
+                            End If
+                            emp.Status = reader.GetString("status")
+                            emprestimos.Add(emp)
+                        End While
+                    End Using
+                End Using
+            End Using
+        Catch ex As Exception
+            MessageBox.Show("Erro ao listar empréstimos: " & ex.Message)
+        End Try
+        Return emprestimos
+    End Function
 End Class
