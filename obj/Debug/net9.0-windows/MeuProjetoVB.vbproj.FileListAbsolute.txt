@@ -48,10 +48,10 @@ C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjeto
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.AssemblyInfoInputs.cache
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.AssemblyInfo.vb
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.vbproj.CoreCompileInputs.cache
+C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.sourcelink.json
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProje.A00A7F7F.Up2Date
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.dll
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\refint\MeuProjetoVB.dll
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.pdb
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.genruntimeconfig.cache
 C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\ref\MeuProjetoVB.dll
-C:\Users\AEPBS\Documents\GitHub\visual-basic\obj\Debug\net9.0-windows\MeuProjetoVB.sourcelink.json

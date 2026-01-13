@@ -5,7 +5,7 @@
     <TargetFramework>net9.0-windows</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <RootNamespace>MeuProjetoVB</RootNamespace>
-    <StartupObject>MeuProjetoVB.FormPrincipal</StartupObject>
+    <StartupObject>MeuProjetoVB.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
